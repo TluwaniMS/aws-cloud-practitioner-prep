@@ -1,4 +1,4 @@
-# aws-cloud-practitioner-prep
+# AWS Cloud Practitioner Prep
 
 # What is Cloud Computing?
 
