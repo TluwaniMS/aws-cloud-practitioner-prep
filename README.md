@@ -13,3 +13,7 @@ Platform as a Service (PaaS) is a cloud computing service model providing a vers
 ## Infrastructure As a Service (IaaS):
 
 Infrastructure as a Service (IaaS) is a model within cloud computing that delivers internet-accessible, on-demand IT infrastructure encompassing computing power, storage, and networking resources.
+
+## Software As a Service (Saas):
+
+Software as a Service (SaaS) is a facet of cloud computing where applications are provided over the Internet, functioning as services.
