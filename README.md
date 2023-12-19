@@ -9,3 +9,7 @@ Cloud computing refers to the convenient access and utilization of computing res
 ## Platform As a Service (PaaS):
 
 Platform as a Service (PaaS) is a cloud computing service model providing a versatile and scalable platform for app development, deployment, operation, and management. It simplifies the process by eliminating the need to handle the usual complexities involved in building and maintaining the underlying infrastructure for applications.
+
+## Infrastructure As a Service (IaaS):
+
+Infrastructure as a Service (IaaS) is a model within cloud computing that delivers internet-accessible, on-demand IT infrastructure encompassing computing power, storage, and networking resources.
