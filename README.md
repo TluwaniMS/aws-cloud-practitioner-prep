@@ -35,3 +35,17 @@ In cloud computing, durability refers to the ability of data to remain intact an
 * ### Agility:
 
 In cloud computing, agility refers to the ability to quickly and efficiently adapt to changing demands and requirements. This includes the ability to rapidly provision and scale resources up or down as needed, automate processes to streamline operations, and deploy new applications or services swiftly. Essentially, agility in cloud computing enables organizations to be more responsive, flexible, and efficient in utilizing cloud resources to meet their business objectives.
+
+# Cloud Computing Deployment Models
+
+* ### Private Cloud:
+
+A private cloud refers to a cloud computing environment that is dedicated solely to one organization.  
+
+* ### Public Cloud:
+
+A public cloud is a type of cloud computing service offered by third-party providers over the internet. In a public cloud, multiple customers share the same infrastructure, including servers, storage, and networking resources, provided by the cloud provider.
+
+* ### Hybrid Cloud:
+
+A hybrid cloud is a computing environment that combines elements of both public and private cloud solutions. In a hybrid cloud setup, some resources and services are hosted on-premises in a private cloud, while others are hosted on a public cloud infrastructure provided by a third-party service provider.
