@@ -27,3 +27,7 @@ Spot Instances allow you to bid for unused EC2 capacity at a significantly lower
 * #### Dedicated Hosts:
 
 With Dedicated Hosts, you have exclusive access to physical servers dedicated to your use. Dedicated Hosts can help you meet compliance requirements or licensing restrictions that require a specific physical server.
+
+### ELB (Elastic Load Balancing)
+
+Amazon ELB (Elastic Load Balancing) Load Balancing refers to the process of distributing incoming application or network traffic across multiple EC2 instances in a cloud computing environment. It helps to improve the availability and fault tolerance of applications by spreading the load evenly across multiple instances. This ensures that no single instance becomes overwhelmed with requests, thus preventing downtime or degraded performance.
