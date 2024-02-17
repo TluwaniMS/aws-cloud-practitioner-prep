@@ -53,3 +53,8 @@ AWS EC2 (Elastic Compute Cloud) Optimizer is a tool provided by Amazon Web Servi
 ### AWS Elastic Container Service (ECS) 
 
 Amazon Elastic Container Service (ECS) is a fully managed container orchestration service provided by Amazon Web Services (AWS). It allows you to easily run, manage, and scale containerized applications using Docker containers and enables you to deploy, manage, and scale containerized applications on a cluster of container instances.
+
+### Amazon Elastic Kubernetes Service (EKS)
+
+Amazon Elastic Kubernetes Service (EKS) is a managed Kubernetes service provided by Amazon Web Services (AWS).
+AWS EKS allows you to run Kubernetes clusters on AWS infrastructure without needing to manage the underlying Kubernetes control plane.
