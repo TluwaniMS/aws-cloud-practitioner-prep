@@ -45,3 +45,7 @@ Vertical scaling involves adding more resources (such as CPU, RAM, or storage) t
 * ##### Horizontal Scaling (Scaling Out):
 
 Horizontal scaling involves adding more instances or servers to distribute the load across multiple machines.Instead of increasing the resources of individual servers, horizontal scaling adds more servers to the system, spreading the workload across them.
+
+### AWS EC2 (Elastic Compute Cloud) Optimizer
+
+AWS EC2 (Elastic Compute Cloud) Optimizer is a tool provided by Amazon Web Services (AWS) that helps optimize your EC2 instances for better performance and cost efficiency. It analyzes the resource utilization of your EC2 instances and provides recommendations to right-size your instances based on their actual usage patterns.
