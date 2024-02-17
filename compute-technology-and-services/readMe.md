@@ -58,3 +58,9 @@ Amazon Elastic Container Service (ECS) is a fully managed container orchestratio
 
 Amazon Elastic Kubernetes Service (EKS) is a managed Kubernetes service provided by Amazon Web Services (AWS).
 AWS EKS allows you to run Kubernetes clusters on AWS infrastructure without needing to manage the underlying Kubernetes control plane.
+
+## Serverless
+
+### What is server less?
+
+In cloud computing terms, "serverless" refers to a cloud computing model where the cloud provider dynamically manages the allocation and provisioning of servers and infrastructure resources, allowing developers to focus solely on writing and deploying code without the need to manage the underlying infrastructure.
