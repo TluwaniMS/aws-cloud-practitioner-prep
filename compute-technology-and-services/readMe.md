@@ -49,3 +49,7 @@ Horizontal scaling involves adding more instances or servers to distribute the l
 ### AWS EC2 (Elastic Compute Cloud) Optimizer
 
 AWS EC2 (Elastic Compute Cloud) Optimizer is a tool provided by Amazon Web Services (AWS) that helps optimize your EC2 instances for better performance and cost efficiency. It analyzes the resource utilization of your EC2 instances and provides recommendations to right-size your instances based on their actual usage patterns.
+
+### AWS Elastic Container Service (ECS) 
+
+Amazon Elastic Container Service (ECS) is a fully managed container orchestration service provided by Amazon Web Services (AWS). It allows you to easily run, manage, and scale containerized applications using Docker containers and enables you to deploy, manage, and scale containerized applications on a cluster of container instances.
