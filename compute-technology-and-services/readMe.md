@@ -64,3 +64,7 @@ AWS EKS allows you to run Kubernetes clusters on AWS infrastructure without need
 ### What is server less?
 
 In cloud computing terms, "serverless" refers to a cloud computing model where the cloud provider dynamically manages the allocation and provisioning of servers and infrastructure resources, allowing developers to focus solely on writing and deploying code without the need to manage the underlying infrastructure.
+
+### AWS Lambda
+
+AWS Lambda is a serverless computing service provided by Amazon Web Services (AWS) that allows you to run code without provisioning or managing servers. With Lambda, you can upload your code, and Lambda takes care of provisioning and managing the infrastructure needed to run that code in response to events.
