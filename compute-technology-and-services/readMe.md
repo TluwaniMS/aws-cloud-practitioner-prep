@@ -68,3 +68,7 @@ In cloud computing terms, "serverless" refers to a cloud computing model where t
 ### AWS Lambda
 
 AWS Lambda is a serverless computing service provided by Amazon Web Services (AWS) that allows you to run code without provisioning or managing servers. With Lambda, you can upload your code, and Lambda takes care of provisioning and managing the infrastructure needed to run that code in response to events.
+
+### AWS Fargate
+
+AWS Fargate is a serverless compute engine for containers offered by Amazon Web Services (AWS). It allows you to run containers without managing the underlying infrastructure. With Fargate, you can focus on building and deploying your containerized applications without needing to provision or manage servers or clusters.
