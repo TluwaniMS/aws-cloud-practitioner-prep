@@ -84,3 +84,7 @@ AWS Lightsail is a simplified virtual private server (VPS) service offered by Am
 ### AWS Batch
 
 AWS Batch is a fully managed service provided by Amazon Web Services (AWS) that enables developers, scientists, and engineers to efficiently run batch computing workloads in the cloud. It dynamically provisions the optimal quantity and type of compute resources based on the specific requirements of the batch jobs submitted by the user, thus optimizing resource utilization and minimizing costs.
+
+### AWS Wavelength
+
+AWS Wavelength is a service offered by Amazon Web Services (AWS) that brings AWS compute and storage services to the edge of the 5G networks. It enables developers to build and deploy ultra-low-latency applications that require real-time responsiveness by placing AWS infrastructure at the edge of telecommunication service providers' 5G networks.
