@@ -72,3 +72,7 @@ AWS Lambda is a serverless computing service provided by Amazon Web Services (AW
 ### AWS Fargate
 
 AWS Fargate is a serverless compute engine for containers offered by Amazon Web Services (AWS). It allows you to run containers without managing the underlying infrastructure. With Fargate, you can focus on building and deploying your containerized applications without needing to provision or manage servers or clusters.
+
+### AWS Outpost
+
+AWS Outposts is a fully managed service by Amazon Web Services (AWS) that extends AWS infrastructure, services, APIs, and tools to virtually any data center, co-location space, or on-premises facility. It enables customers to run AWS compute, storage, database, and other services locally, while seamlessly connecting to the broader range of AWS services available in the cloud.
