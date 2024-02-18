@@ -76,3 +76,7 @@ AWS Fargate is a serverless compute engine for containers offered by Amazon Web 
 ### AWS Outpost
 
 AWS Outposts is a fully managed service by Amazon Web Services (AWS) that extends AWS infrastructure, services, APIs, and tools to virtually any data center, co-location space, or on-premises facility. It enables customers to run AWS compute, storage, database, and other services locally, while seamlessly connecting to the broader range of AWS services available in the cloud.
+
+### AWS Lightsail
+
+AWS Lightsail is a simplified virtual private server (VPS) service offered by Amazon Web Services (AWS). It's designed to provide an easy-to-use platform for individuals, small businesses, and developers who need a low-cost, straightforward way to launch and manage cloud instances without the complexity of traditional AWS services.
