@@ -80,3 +80,7 @@ AWS Outposts is a fully managed service by Amazon Web Services (AWS) that extend
 ### AWS Lightsail
 
 AWS Lightsail is a simplified virtual private server (VPS) service offered by Amazon Web Services (AWS). It's designed to provide an easy-to-use platform for individuals, small businesses, and developers who need a low-cost, straightforward way to launch and manage cloud instances without the complexity of traditional AWS services.
+
+### AWS Batch
+
+AWS Batch is a fully managed service provided by Amazon Web Services (AWS) that enables developers, scientists, and engineers to efficiently run batch computing workloads in the cloud. It dynamically provisions the optimal quantity and type of compute resources based on the specific requirements of the batch jobs submitted by the user, thus optimizing resource utilization and minimizing costs.
