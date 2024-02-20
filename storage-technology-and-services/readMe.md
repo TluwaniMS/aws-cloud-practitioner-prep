@@ -13,3 +13,7 @@ Unlike Amazon EBS, which provides block storage, Amazon EFS provides file storag
 ## AWS Instance Store
 
 AWS Instance Store,is a type of temporary block storage provided by Amazon Web Services (AWS) for Amazon EC2 instances. Instance store volumes are physically attached to the host server that hosts the EC2 instance and provide temporary block-level storage that persists only for the duration of the instance's life cycle. Once the instance is terminated, the data stored on the instance store volumes is lost.
+
+## AWS S3(Simple Storage Service)
+
+AWS S3, is a highly scalable and durable object storage service provided by Amazon Web Services (AWS). It is designed to store and retrieve any amount of data from anywhere on the web. S3 is commonly used for a wide range of use cases, including data storage for websites, application data, backup and recovery, big data analytics, content distribution, and archiving.
