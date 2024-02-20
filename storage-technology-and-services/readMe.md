@@ -48,3 +48,7 @@ This is the lowest-cost storage class in S3, optimized for long-term data retent
 * #### Outposts:
 
 This storage class is designed for storing data on AWS Outposts, which are fully managed and configurable compute and storage racks built with AWS-designed hardware. It extends AWS infrastructure, services, APIs, and tools to customer premises, enabling a truly consistent hybrid experience.
+
+## AWS FSx
+
+Amazon FSx for Windows File Server delivers fully managed Microsoft Windows file servers supported by a native Windows file system.
