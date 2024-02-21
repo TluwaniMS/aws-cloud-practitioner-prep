@@ -63,3 +63,6 @@ This storage class is designed for storing data on AWS Outposts, which are fully
 
 Amazon FSx for Windows File Server delivers fully managed Microsoft Windows file servers supported by a native Windows file system.
 
+## AWS Backup:
+
+AWS Backup is a fully managed backup service provided by Amazon Web Services (AWS) that enables users to centralize and automate the backup of their AWS resources across multiple services. It simplifies the process of creating and managing backups, allowing users to define backup policies, set retention periods, and monitor backup activity from a centralized console.
