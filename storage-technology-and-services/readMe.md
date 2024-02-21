@@ -5,6 +5,16 @@
 Amazon Elastic Block Store is a block storage service provided by Amazon Web Services (AWS) that allows users to create persistent block storage volumes and attach them to Amazon EC2 instances.
 EBS volumes are highly available and reliable storage volumes that can be used as primary storage for data-intensive workloads such as databases, file systems, and application hosting. 
 
+### AWS EBS Types:
+
+* ##### Solid state drive (SSD) volumes:
+
+SSD-based volumes are finely tuned for transactional tasks that involve frequent read and write operations characterized by small I/O sizes.
+
+* ##### Hard disk drive (HDD) volumes:
+
+HDD-based volumes are tailored for extensive streaming tasks where the primary performance factor is throughput.
+
 ## AWS EFS (Elastic File System)
 
 AWS EFS is a scalable, fully managed file storage service provided by Amazon Web Services (AWS).
@@ -52,3 +62,4 @@ This storage class is designed for storing data on AWS Outposts, which are fully
 ## AWS FSx
 
 Amazon FSx for Windows File Server delivers fully managed Microsoft Windows file servers supported by a native Windows file system.
+
