@@ -5,6 +5,10 @@
 Amazon Elastic Block Store is a block storage service provided by Amazon Web Services (AWS) that allows users to create persistent block storage volumes and attach them to Amazon EC2 instances.
 EBS volumes are highly available and reliable storage volumes that can be used as primary storage for data-intensive workloads such as databases, file systems, and application hosting. 
 
+### AWS EBS Snapshots
+
+An EBS (Elastic Block Store) snapshot is a point-in-time copy of an EBS volume. It captures the entire state of the volume at the moment the snapshot is taken, including all data, configurations, and settings. EBS snapshots are stored in Amazon S3 (Simple Storage Service) and are incremental, meaning that only the data that has changed since the last snapshot is stored in subsequent snapshots.
+
 ### AWS EBS Types:
 
 * ##### Solid state drive (SSD) volumes:
