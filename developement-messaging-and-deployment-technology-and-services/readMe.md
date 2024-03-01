@@ -17,3 +17,7 @@ AWS CodeDeploy is a fully managed deployment service provided by Amazon Web Serv
 * #### AWS CodePipeline
 
 AWS CodePipeline is a continuous integration and continuous delivery (CI/CD) service provided by Amazon Web Services (AWS). It automates the build, test, and deployment phases of the software release process, enabling developers to deliver updates to their applications rapidly and reliably.
+
+## AWS CodeArtifact
+
+AWS CodeArtifact is a fully managed software artifact repository service provided by Amazon Web Services (AWS). It enables developers to securely store, share, and manage software packages and dependencies used in their development and deployment workflows.
