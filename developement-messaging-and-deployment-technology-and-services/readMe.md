@@ -55,3 +55,27 @@ Long polling is an alternative method that SQS clients can use to retrieve messa
 Long polling is like this patient waiting. You ask the mailbox if there are messages, but if there aren't any, you wait patiently for a set time. If a letter arrives during that time, you get it immediately. If not, you check again after some time.
 
 In short, short polling checks frequently, while long polling waits patiently for messages to arrive, reducing the number of times you need to ask if there are messages, which can be more efficient in some situations.
+
+## AWS SES(Simple Email Service)
+
+Amazon Simple Email Service (Amazon SES) is a scalable and cost-effective email service provided by Amazon Web Services (AWS). It allows you to send and receive emails using the AWS infrastructure, making it easier to integrate email functionality into your applications and systems.
+
+## AWS EventBridge
+
+Amazon EventBridge is a fully managed event bus service provided by Amazon Web Services (AWS). It enables you to build event-driven architectures by integrating and routing events from various AWS services, third-party SaaS applications, and custom applications.
+
+## AWS Step Functions
+
+AWS Step Functions is a fully managed service provided by Amazon Web Services (AWS) that allows you to coordinate and orchestrate the execution of multiple AWS services and custom actions as workflows or state machines. It enables you to build complex, scalable, and resilient workflows by defining a series of steps or states and their transitions.
+
+## AWS CLoudFormation
+
+AWS CloudFormation is a service provided by Amazon Web Services (AWS) that allows you to define and manage your AWS infrastructure as code. It enables you to create, update, and delete AWS resources in a repeatable and automated manner by using templates written in either JSON or YAML format.
+
+## AWS Elastic Beanstalk
+
+AWS Elastic Beanstalk is a platform-as-a-service (PaaS) offering from Amazon Web Services (AWS) that simplifies the deployment, management, and scaling of web applications and services. It allows developers to quickly deploy applications without worrying about the underlying infrastructure setup.
+
+## AWS X-ray
+
+AWS X-Ray is a service provided by Amazon Web Services (AWS) that helps developers analyze and debug distributed applications, such as microservices-based architectures, by providing insights into how requests are processed and where bottlenecks or errors occur.
