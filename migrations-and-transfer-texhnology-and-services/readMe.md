@@ -35,3 +35,8 @@ AWS DataSync is a service provided by Amazon Web Services (AWS) that facilitates
 ## AWS Application Discovery Service
 
 AWS Application Discovery Service is a tool provided by Amazon Web Services (AWS) that helps customers plan their migration to the AWS cloud by collecting and analyzing information about their on-premises data center infrastructure and application dependencies.
+
+## AWS Migration Hub
+
+AWS Migration Hub is a service provided by Amazon Web Services (AWS) that helps organizations plan and track the migration of their applications and workloads to the AWS cloud. It provides a centralized location to manage the migration process, track the progress of migration projects, and access key resources and tools for migration.
+
