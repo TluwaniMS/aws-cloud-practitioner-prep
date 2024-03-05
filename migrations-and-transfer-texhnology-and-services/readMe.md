@@ -40,3 +40,6 @@ AWS Application Discovery Service is a tool provided by Amazon Web Services (AWS
 
 AWS Migration Hub is a service provided by Amazon Web Services (AWS) that helps organizations plan and track the migration of their applications and workloads to the AWS cloud. It provides a centralized location to manage the migration process, track the progress of migration projects, and access key resources and tools for migration.
 
+## AWS Application Migration Service
+
+AWS Migration Service (MGN), known as the AWS Application Migration Service, offers an extensively automated lift-and-shift (rehosting) approach, streamlining, accelerating, and cost-saving the process of migrating applications to AWS. It enables businesses to transfer a substantial array of physical, virtual, or cloud servers seamlessly, eliminating compatibility concerns, minimizing performance interruptions, and shortening the cutover periods.
