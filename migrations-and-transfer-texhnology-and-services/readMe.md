@@ -27,3 +27,11 @@ This service allows you to set up SFTP servers in AWS without managing underlyin
 * #### AWS Transfer for FTP (File Transfer Protocol)
 
 Similar to AWS Transfer for SFTP, this service allows you to set up FTP servers in AWS without managing servers. It provides support for FTPS (FTP over SSL/TLS) and FTP, allowing you to transfer files securely into and out of Amazon S3.
+
+## AWS Datasync
+
+AWS DataSync is a service provided by Amazon Web Services (AWS) that facilitates the transfer of large amounts of data between on-premises storage systems and AWS storage services, such as Amazon S3 (Simple Storage Service) and Amazon EFS (Elastic File System). It is designed to simplify and accelerate the process of migrating data to the cloud, synchronizing data between on-premises and cloud storage, and transferring data for data processing and analysis in the cloud.
+
+## AWS Application Discovery Service
+
+AWS Application Discovery Service is a tool provided by Amazon Web Services (AWS) that helps customers plan their migration to the AWS cloud by collecting and analyzing information about their on-premises data center infrastructure and application dependencies.
