@@ -23,3 +23,15 @@ AWS Athena is an interactive query service provided by Amazon Web Services (AWS)
 ## AWS Glue
 
 AWS Glue is a fully managed extract, transform, and load (ETL) service provided by Amazon Web Services (AWS) that makes it easy to prepare and load data for analysis.
+
+## Amazon EMR (Elastic MapReduce)
+
+Amazon EMR (Elastic MapReduce) is a cloud-based big data platform provided by Amazon Web Services (AWS) that simplifies the processing of large datasets using open-source tools such as Apache Hadoop, Apache Spark, Apache Hive, Apache HBase, Apache Flink, and Presto. 
+
+## AWS ELastic Search
+
+Amazon Elasticsearch Service (Amazon ES) is a fully managed service provided by Amazon Web Services (AWS) that makes it easy to deploy, secure, and scale Elasticsearch clusters in the AWS Cloud. Elasticsearch is an open-source distributed search and analytics engine built on Apache Lucene, used for real-time search, log and event data analysis, full-text search, and more.
+
+## Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+
+Amazon Managed Streaming for Apache Kafka (Amazon MSK) is a fully managed service provided by Amazon Web Services (AWS) that makes it easy for you to build and run applications that use Apache Kafka as a data streaming platform. Apache Kafka is an open-source distributed event streaming platform used for building real-time data pipelines and streaming applications.
