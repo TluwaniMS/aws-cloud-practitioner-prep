@@ -43,3 +43,19 @@ Amazon QuickSight is a cloud-powered business intelligence (BI) service provided
 ## AWS Sagemaker
 
 Amazon SageMaker is a fully managed service provided by Amazon Web Services (AWS) that enables developers and data scientists to build, train, and deploy machine learning (ML) models at scale. It simplifies the process of building, training, and deploying ML models by providing a fully integrated development environment with all the tools and resources needed for each step of the ML workflow.
+
+## AWS Kendra
+
+Amazon Kendra is a powerful and highly accurate enterprise search service provided by Amazon Web Services (AWS). It utilizes machine learning algorithms and natural language processing (NLP) techniques to enable organizations to easily search and discover information across vast amounts of unstructured data, such as documents, presentations, FAQs, and knowledge bases.
+
+## AWS Lex
+
+Amazon Lex is a service provided by Amazon Web Services (AWS) that enables developers to build conversational interfaces, or chatbots, for their applications. It uses the same deep learning technology that powers Amazon Alexa to understand and interpret natural language input from users.
+
+## AWS Polly
+
+Amazon Polly is a service provided by Amazon Web Services (AWS) that converts text into lifelike speech. It uses advanced deep learning technologies to synthesize speech that sounds natural and human-like, allowing developers to add speech capabilities to their applications easily.
+
+## AWS Comprehend
+
+Amazon Comprehend is a natural language processing (NLP) service provided by Amazon Web Services (AWS) that enables developers to extract insights and relationships from unstructured text data. It uses machine learning algorithms to analyze text and identify key information such as sentiment, entities, phrases, language, and more.
