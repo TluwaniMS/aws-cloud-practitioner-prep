@@ -35,3 +35,11 @@ Amazon Elasticsearch Service (Amazon ES) is a fully managed service provided by 
 ## Amazon Managed Streaming for Apache Kafka (Amazon MSK)
 
 Amazon Managed Streaming for Apache Kafka (Amazon MSK) is a fully managed service provided by Amazon Web Services (AWS) that makes it easy for you to build and run applications that use Apache Kafka as a data streaming platform. Apache Kafka is an open-source distributed event streaming platform used for building real-time data pipelines and streaming applications.
+
+## AWS Quick Sight
+
+Amazon QuickSight is a cloud-powered business intelligence (BI) service provided by Amazon Web Services (AWS) that allows organizations to build interactive dashboards and visualizations from their data quickly and easily. It enables users to analyze and derive insights from data stored in various AWS data sources, including Amazon S3, Amazon Redshift, Amazon RDS, Amazon Aurora, and Amazon Athena, as well as third-party data sources.
+
+## AWS Sagemaker
+
+Amazon SageMaker is a fully managed service provided by Amazon Web Services (AWS) that enables developers and data scientists to build, train, and deploy machine learning (ML) models at scale. It simplifies the process of building, training, and deploying ML models by providing a fully integrated development environment with all the tools and resources needed for each step of the ML workflow.
