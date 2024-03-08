@@ -15,3 +15,11 @@ Amazon Kinesis is a platform provided by Amazon Web Services (AWS) for collectin
 ## AWS Kinesis Data Firehose
 
 Kinesis Data Firehose makes it easy to capture, transform, and load streaming data into AWS data stores and analytics services. It can automatically scale to match the throughput of your data and can deliver data to destinations such as Amazon S3, Amazon Redshift, and Amazon Elasticsearch Service.
+
+## AWS AThena 
+
+AWS Athena is an interactive query service provided by Amazon Web Services (AWS) that allows you to analyze data stored in Amazon S3 using standard SQL queries.
+
+## AWS Glue
+
+AWS Glue is a fully managed extract, transform, and load (ETL) service provided by Amazon Web Services (AWS) that makes it easy to prepare and load data for analysis.
