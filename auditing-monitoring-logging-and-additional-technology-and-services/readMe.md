@@ -37,3 +37,16 @@ AWS Config is a service provided by Amazon Web Services (AWS) that helps you ass
 ## AWS Audit Manager
 
 AWS Audit Manager is a service provided by Amazon Web Services (AWS) designed to help organizations streamline and automate the process of auditing AWS resources. It simplifies the process of assessing compliance with regulatory requirements and industry standards by providing pre-built frameworks, automated assessments, and reporting capabilities.
+
+## AWS Connect
+
+AWS Connect is a cloud-based contact center service provided by Amazon Web Services (AWS). It allows businesses to set up a fully functional contact center in the cloud without the need for traditional on-premises hardware and software.
+
+## AWS Workspaces
+
+AWS WorkSpaces is a cloud-based desktop-as-a-service (DaaS) offering provided by Amazon Web Services (AWS). It allows users to access their desktop environment from anywhere using any supported device, such as a laptop, tablet, or thin client, with an internet connection. AWS WorkSpaces provides a fully managed, secure, and scalable virtual desktop infrastructure (VDI) solution without the need for upfront investment in hardware or infrastructure.
+
+## AWS AppStream
+
+AWS AppStream is a fully managed application streaming service provided by Amazon Web Services (AWS). It allows users to stream desktop applications securely from the cloud to any device with an internet connection, without the need to install or download the applications locally. AWS AppStream provides a scalable and cost-effective solution for delivering graphics-intensive applications or applications with specialized requirements to users anywhere in the world.
+
