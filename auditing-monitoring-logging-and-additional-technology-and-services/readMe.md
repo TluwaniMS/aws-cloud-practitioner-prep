@@ -29,3 +29,11 @@ AWS Trusted Advisor is an online tool provided by Amazon Web Services (AWS) that
 * Security
 * Fault Tolerance
 * Service Limits
+
+## AWS Config
+
+AWS Config is a service provided by Amazon Web Services (AWS) that helps you assess, audit, and evaluate the configuration of your AWS resources. It continuously monitors and records configuration changes to your AWS environment, providing visibility into resource configuration history and relationships. AWS Config enables you to maintain compliance with internal policies, regulatory standards, and industry best practices.
+
+## AWS Audit Manager
+
+AWS Audit Manager is a service provided by Amazon Web Services (AWS) designed to help organizations streamline and automate the process of auditing AWS resources. It simplifies the process of assessing compliance with regulatory requirements and industry standards by providing pre-built frameworks, automated assessments, and reporting capabilities.
