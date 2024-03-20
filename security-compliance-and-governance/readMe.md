@@ -24,3 +24,16 @@ Customers are responsible for security *in* the cloud. This includes:
 * Securing operating systems, applications, and configurations within AWS instances.
 * Network and firewall configurations, including VPC (Virtual Private Cloud) settings.
 * Compliance adherence based on industry standards and regulations applicable to the customer's use case.
+
+## AWS IAM (Identity and Access Management) 
+
+AWS IAM (Identity and Access Management) enables you to securely control access to AWS services and resources. IAM allows you to manage users, groups, roles, and their permissions within your AWS account. It provides centralized control over who can access specific AWS resources and what actions they can perform on those resources.
+
+* #### Roles:
+
+IAM roles are entities with permissions policies that determine what actions can be performed on which resources. Roles are not associated with a specific user or group; instead, they are assumed by users, applications, or AWS services temporarily. Roles are commonly used to delegate access to resources or services across AWS accounts.
+
+* #### Policies:
+
+IAM policies are JSON documents that define permissions and access control rules. Policies can be attached to users, groups, roles, or directly to AWS resources. They specify the actions allowed or denied, the resources those actions can be performed on, and conditions under which actions are allowed or denied.
+
