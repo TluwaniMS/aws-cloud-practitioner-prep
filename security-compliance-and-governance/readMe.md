@@ -37,3 +37,10 @@ IAM roles are entities with permissions policies that determine what actions can
 
 IAM policies are JSON documents that define permissions and access control rules. Policies can be attached to users, groups, roles, or directly to AWS resources. They specify the actions allowed or denied, the resources those actions can be performed on, and conditions under which actions are allowed or denied.
 
+* #### AWS Access Analyzer:
+
+AWS Access Analyzer is a service provided by Amazon Web Services (AWS) that helps you analyze and identify unintended access to your AWS resources. It continuously monitors the configurations of your AWS resources and identifies any resources that are publicly accessible or shared with an AWS account outside of your organization. Access Analyzer evaluates resource policies, IAM policies, and S3 bucket policies to detect any potential security risks.
+
+* #### AWS Policy Simulator:
+
+The AWS Policy Simulator is a tool provided by Amazon Web Services (AWS) that allows you to simulate and test the effects of IAM policies and resource policies to understand their potential impact on access control within your AWS environment. It helps you evaluate and validate your policies before applying them to your production environment, ensuring that they provide the intended access permissions and do not inadvertently grant excessive privileges.
