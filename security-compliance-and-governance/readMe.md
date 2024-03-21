@@ -44,3 +44,15 @@ AWS Access Analyzer is a service provided by Amazon Web Services (AWS) that help
 * #### AWS Policy Simulator:
 
 The AWS Policy Simulator is a tool provided by Amazon Web Services (AWS) that allows you to simulate and test the effects of IAM policies and resource policies to understand their potential impact on access control within your AWS environment. It helps you evaluate and validate your policies before applying them to your production environment, ensuring that they provide the intended access permissions and do not inadvertently grant excessive privileges.
+
+## AWS Identity Federation:
+
+AWS Identity Federation is a feature provided by Amazon Web Services (AWS) that enables you to grant  access to AWS resources to users who authenticate through an external identity provider (IdP). This allows you to leverage existing authentication systems, such as corporate directories or social identity providers, to grant access to AWS resources without the need to create and manage AWS IAM (Identity and Access Management) users.
+
+## AWS IAM Identity Center
+
+AWS IAM Identity Center, formerly known as AWS Single Sign-On (SSO), is a cloud-based service offered by Amazon Web Services (AWS) that helps you centrally manage access to multiple AWS accounts and applications. It streamlines the process of providing users with access to the right AWS resources across your AWS organization.
+
+## AWS Web Federated Identities
+
+AWS Web Identity Federation is a feature provided by Amazon Web Services (AWS) that allows you to let users authenticate with a Web-based identity provider (like Amazon Cognito, Facebook, Google, or any other OpenID Connect-compatible identity provider), and then grant them temporary access to AWS resources. 
